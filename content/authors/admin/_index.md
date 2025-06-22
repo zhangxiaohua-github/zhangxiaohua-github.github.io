@@ -24,8 +24,9 @@ role: Ph.D Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Marine and Coastal Geodesy Group at UH,
-    name: University of Houston
+  - name: Marine and Coastal Geodesy Group at UH
+  
+    University of Houston
     url: https://xie.cive.uh.edu/
 
 # Social network links
