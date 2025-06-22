@@ -11,7 +11,7 @@ last_name: Zhang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,43 +24,46 @@ role: Ph.D Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Marine and Coastal Geodesy Group at UH, University of Houston
+    url: https://xie.cive.uh.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:your-email@example.com'
+#     label: E-mail Me
+#   - icon: brands/x
+#     url: https://twitter.com/GetResearchDev
+#   - icon: brands/instagram
+#     url: https://www.instagram.com/
+#   - icon: brands/github
+#     url: https://github.com/gcushen
+#   - icon: brands/linkedin
+#     url: https://www.linkedin.com/
+#   - icon: academicons/google-scholar
+#     url: https://scholar.google.com/
+#   - icon: academicons/orcid
+#     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - SAR Imaging
+  - InSAR
+  - GNSS-IR
+  - Remote Sensing
+  - GeoAI
+  - WebGIS
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geosensing
+    institution: University of Houston
+    date_start: 2025-09-01
+    date_end: 2030-06-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Surui Xie'
+      url: 'https://www.cive.uh.edu/faculty/xie-surui'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
