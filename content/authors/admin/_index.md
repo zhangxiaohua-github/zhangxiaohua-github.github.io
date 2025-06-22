@@ -24,8 +24,9 @@ role: Ph.D Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Marine and Coastal Geodesy Group at UH, University of Houston
-    url: https://openai.com/
+  - name: Marine and Coastal Geodesy Group at UH,
+    name: University of Houston
+    url: https://xie.cive.uh.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +48,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - SAR Imaging
+  - InSAR
+  - GNSS-IR
+  - Remote Sensing
+  - GeoAI
+  - WebGIS
 
 education:
   - area: PhD Artificial Intelligence
