@@ -79,8 +79,8 @@ education:
     summary: |
       Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Prof Surui Xie'
+      url: 'https://www.cive.uh.edu/faculty/xie-surui'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
