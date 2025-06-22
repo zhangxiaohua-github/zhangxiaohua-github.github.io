@@ -81,56 +81,56 @@ education:
    button:
    text: 'Read Thesis'
    url: 'https://example.com'
-  - area: MSc Radar Sensing
-    institution: University of Electronic Science and Technology of China
-    date_start: 2020-09-01
-    date_end: 2023-06-31
-    summary: |
-      GPA: 3.67/4.00
+#   - area: MSc Radar Sensing
+#     institution: University of Electronic Science and Technology of China
+#     date_start: 2020-09-01
+#     date_end: 2023-06-31
+#     summary: |
+#       GPA: 3.67/4.00
 
-      Courses included:
-      - Modern Testing Technology
-      - Methods and Applications of Signal Processing
-      - Surveying and Mapping
-      - Microwave measurement
+#       Courses included:
+#       - Modern Testing Technology
+#       - Methods and Applications of Signal Processing
+#       - Surveying and Mapping
+#       - Microwave measurement
 
-      My master thesis, titled 'A study on the mechanism of permafrost surface deformation based on multi-source remote sensing data', was authorized "Outstanding Master's Thesis".
+#       My master thesis, titled 'A study on the mechanism of permafrost surface deformation based on multi-source remote sensing data', was authorized "Outstanding Master's Thesis".
 
-  - area: BSc Measurement and Control Technology and Instrumentation
-    institution: University of Electronic Science and Technology of China
-    date_start: 2016-09-01
-    date_end: 2020-06-31
-    summary: |
-      GPA: 3.80/4.00
+#   - area: BSc Measurement and Control Technology and Instrumentation
+#     institution: University of Electronic Science and Technology of China
+#     date_start: 2016-09-01
+#     date_end: 2020-06-31
+#     summary: |
+#       GPA: 3.80/4.00
       
-      Courses included:
-      - Signals and Systems
-      - Microcomputer System Thoery and Embedded System Design
-      - Electronic Measurement Theory and Test Systems
-      - Microwave Technology and Radio-Frequency Circuit
-work:
-  - position: SAR Signals and InSAR Analysist
-    company_name: Tianjin Yunyao Yuhang Technology Co., Ltd.
-    company_url: 'http://tjyyspace.com/'
-    company_logo: ''
-    date_start: 2023-07-01
-    date_end: 2023-12-31
-    summary: |2-
-      Responsibilities include:
-      - Simulating echo signals from both airborne and spaceborne SAR systems. This simulation aids in subsequent comparisons with actual echo signal metrics.
-      - Deinterleaving, and decompressing echo data to calculate peak and integral sidelobe ratios, and to assess the quality of echo signals.
-      - Utilizing the Range-Doppler (RD) algorithm to compress echo signals in both the range and azimuth directions, enabling focused SAR imaging.
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       Courses included:
+#       - Signals and Systems
+#       - Microcomputer System Thoery and Embedded System Design
+#       - Electronic Measurement Theory and Test Systems
+#       - Microwave Technology and Radio-Frequency Circuit
+# work:
+#   - position: SAR Signals and InSAR Analysist
+#     company_name: Tianjin Yunyao Yuhang Technology Co., Ltd.
+#     company_url: 'http://tjyyspace.com/'
+#     company_logo: ''
+#     date_start: 2023-07-01
+#     date_end: 2023-12-31
+#     summary: |2-
+#       Responsibilities include:
+#       - Simulating echo signals from both airborne and spaceborne SAR systems. This simulation aids in subsequent comparisons with actual echo signal metrics.
+#       - Deinterleaving, and decompressing echo data to calculate peak and integral sidelobe ratios, and to assess the quality of echo signals.
+#       - Utilizing the Range-Doppler (RD) algorithm to compress echo signals in both the range and azimuth directions, enabling focused SAR imaging.
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
