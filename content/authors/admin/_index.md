@@ -25,7 +25,6 @@ role: Ph.D Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Marine and Coastal Geodesy Group at UH
-  - university of Houston
     url: https://xie.cive.uh.edu/
 
 # Social network links
@@ -79,9 +78,9 @@ education:
     date_end: 2030-06-31
     summary: |
       Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
-#    button:
-#    text: 'Read Thesis'
-#    url: 'https://example.com'
+   button:
+   text: 'Read Thesis'
+   url: 'https://example.com'
   - area: MSc Radar Sensing
     institution: University of Electronic Science and Technology of China
     date_start: 2020-09-01
