@@ -77,10 +77,11 @@ education:
     date_start: 2025-09-01
     date_end: 2030-06-31
     summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
       Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
     button:
-      text: 'Prof Surui Xie'
-      url: 'https://www.cive.uh.edu/faculty/xie-surui'
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
