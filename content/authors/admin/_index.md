@@ -25,7 +25,7 @@ role: Ph.D Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Marine and Coastal Geodesy Group at UH, University of Houston
-    url: https://xie.cive.uh.edu/
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,23 +47,20 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - SAR Imaging
-  - InSAR
-  - GNSS-IR
-  - Remote Sensing
-  - GeoAI
-  - WebGIS
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Geosensing
-    institution: University of Houston
-    date_start: 2025-09-01
-    date_end: 2030-06-31
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
-      text: 'Surui Xie'
-      url: 'https://www.cive.uh.edu/faculty/xie-surui'
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
