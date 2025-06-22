@@ -120,17 +120,17 @@ work:
       - Simulating echo signals from both airborne and spaceborne SAR systems. This simulation aids in subsequent comparisons with actual echo signal metrics.
       - Deinterleaving, and decompressing echo data to calculate peak and integral sidelobe ratios, and to assess the quality of echo signals.
       - Utilizing the Range-Doppler (RD) algorithm to compress echo signals in both the range and azimuth directions, enabling focused SAR imaging.
-  # - position: Backend Software Engineer
-  #   company_name: X
-  #   company_url: ''
-  #   company_logo: ''
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     Responsibilities include:
-  #     - Migrated infrastructure to a new data center
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
