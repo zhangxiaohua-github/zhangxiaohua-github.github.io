@@ -145,26 +145,18 @@ skills:
         description: ''
         percent: 40
         icon: code-bracket
-  - name: Models/Methods/Professional Skills
+  - name: Professional Methods
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: RS image processing
         description: 'Multi-source and remote sensing image processing: proficient in processing optical remote sensing images and SAR images.)'
-        percent: 100
-        icon: code-bracket
       - name: InSAR technique
         description: 'PS-InSAR, SBAS-InSAR'
-        percent: 100
-        icon: code-bracket
       - name: Permafrost models
         description: ' TTOP model, Stefan model, seasonal and interannual deformation decomposition model, late season settlement model, ALT estimation through InSAR.'
-        percent: 100
-        icon: code-bracket
       - name: SAR Echo Signal Simulation and Imaging
         description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging.'  
-        percent: 100
-        icon: code-bracket
   - name: Experimental Tools
     color: '#eeac02'
     color_border: '#f0bf23'
