@@ -86,7 +86,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.67/4.00
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
