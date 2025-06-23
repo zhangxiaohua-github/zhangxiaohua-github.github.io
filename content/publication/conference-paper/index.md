@@ -36,8 +36,8 @@ abstract: The polarimetric synthetic aperture radar (PolSAR) image filtering is 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-  - Filtering;Scattering;Geoscience and remote sensing;Filtering algorithms;Speckle;Image filtering;Polarimetric synthetic aperture radar;polarimetric synthetic aperture radar (PolSAR);filter;non-local means (NLM);polarization decomposition
+# tags:
+#   - Filtering;Scattering;Geoscience and remote sensing;Filtering algorithms;Speckle;Image filtering;Polarimetric synthetic aperture radar;polarimetric synthetic aperture radar (PolSAR);filter;non-local means (NLM);polarization decomposition
 
 # Display this page in the Featured widget?
 featured: false
