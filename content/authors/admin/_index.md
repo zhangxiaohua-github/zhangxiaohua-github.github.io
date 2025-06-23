@@ -87,24 +87,22 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.67/4.00
-
       Courses included:
       - Modern Testing Technology
       - Methods and Applications of Signal Processing
       - Surveying and Mapping
       - Microwave measurement
-
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Measurement and Control Technology and Instrumentation
+    institution: University of Electronic Science and Technology of China
+    date_start: 2016-09-01
+    date_end: 2020-06-31
     summary: |
-      GPA: 3.4/4.0
-      
+      GPA: 3.80/4.00  
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Signals and Systems
+      - Microcomputer System Thoery and Embedded System Design
+      - Electronic Measurement Theory and Test Systems
+      - Microwave Technology and Radio-Frequency Circuit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -205,4 +203,4 @@ awards:
 
 ## About Me
 
-My name is Zhang Peng (pronounce Jung Peng). I am currently a Ph.D Student at Marine and Coastal Geodesy Group, University of Houston, where I am contributing to GNSS-IR, InSAR, Remote Sensing and GeoAI.
+My name is Zhang Peng (pronounced Jung Peng). I am currently a Ph.D Student at Marine and Coastal Geodesy Group, University of Houston, where I am contributing to GNSS-IR, InSAR, Remote Sensing and GeoAI.
