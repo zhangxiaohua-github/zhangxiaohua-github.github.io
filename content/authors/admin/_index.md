@@ -95,10 +95,10 @@ education:
       - Microwave measurement
   - area: BSc Measurement and Control Technology and Instrumentation
     institution: University of Electronic Science and Technology of China
-    date_start: ''
-    date_end: ''
+    date_start: 2016-09-01
+    date_end: 2020-06-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.80/4.00
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
