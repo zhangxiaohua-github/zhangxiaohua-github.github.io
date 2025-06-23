@@ -93,10 +93,10 @@ education:
       - Methods and Applications of Signal Processing
       - Surveying and Mapping
       - Microwave measurement
-  - area: ''
-    institution: ''
-    date_start: ''
-    date_end: ''
+  - area: BSc Measurement and Control Technology and Instrumentation
+    institution: University of Electronic Science and Technology of China
+    date_start: 2016-09-01
+    date_end: 2020-06-31
     summary: |
       GPA: 3.4/4.0
       
