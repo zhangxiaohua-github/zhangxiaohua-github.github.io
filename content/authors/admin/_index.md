@@ -87,7 +87,6 @@ education:
     date_end: 2023-06-30
     summary: |
       GPA: 3.67/4.00
-
       Courses included:
       - Modern Testing Technology
       - Methods and Applications of Signal Processing
@@ -99,7 +98,6 @@ education:
     date_end: 2020-06-30
     summary: |
       GPA: 3.80/4.00
-      
       Courses included:
       - Signals and Systems
       - Microcomputer System Thoery and Embedded System Design
