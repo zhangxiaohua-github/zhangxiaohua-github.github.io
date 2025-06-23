@@ -109,8 +109,8 @@ work:
     company_name: Tianjin Yunyao Yuhang Technology Co., Ltd.
     company_url: http://tjyyspace.com/
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-07-01
+    date_end: 2023-12-31
     summary: |
       Responsibilities include:
       - Simulating echo signals from both airborne and spaceborne SAR systems. This simulation aids in subsequent comparisons with actual echo signal metrics.
