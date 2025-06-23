@@ -93,6 +93,7 @@ education:
       - Methods and Applications of Signal Processing
       - Surveying and Mapping
       - Microwave measurement
+
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -204,4 +205,4 @@ awards:
 
 ## About Me
 
-I am currently a Ph.D Student at Marine and Coastal Geodesy Group, University of Houston, where I am contributing to GNSS-IR, InSAR, Remote Sensing and GeoAI.
+My name is Zhang Peng (pronounce Jung Peng). I am currently a Ph.D Student at Marine and Coastal Geodesy Group, University of Houston, where I am contributing to GNSS-IR, InSAR, Remote Sensing and GeoAI.
