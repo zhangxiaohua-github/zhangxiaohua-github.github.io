@@ -28,8 +28,8 @@ publishDate: '2022-10-05T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Remote Sensing
-publication_short: RS
+publication: 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS
+publication_short: 2021 IGARSS
 
 abstract: The polarimetric synthetic aperture radar (PolSAR) image filtering is an essential step before the quantitative inversion. However, the existing filtering algorithms often change the scattering features of the original PolSAR images. This leads to a performance decrease for the subsequent quantitative inversion. In order to combat such drawback, we adopted a novel filtering algorithm preceding the quantitative inversion. This algorithm adopted the idea of “classify first, filter later”. By utilizing the hybrid four-component polarization decomposition (HPD) method to pre-classify the pixels, and implementing non-local means lee (NLM-Lee) filtering only between the same ground object points, the scattering features are well-protected. The experiment results show that the proposed algorithm can not only effectively reduce the speckle and preserve the structural features of the image, but is far superior in preserving the scattering features of the images. Hence, when the PolSAR image filtering is carried out by the proposed algorithm, the performance of the quantitative inversion will be improved.
 
