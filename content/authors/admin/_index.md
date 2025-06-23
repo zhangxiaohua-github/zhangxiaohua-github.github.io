@@ -184,26 +184,6 @@ awards:
   - title: Outstanding Graduate Student
     date: '2022'
     awarder: UESTC
-
-  - title: Outstanding Master's Thesis
-    date: '2023'
-    awarder: UESTC
-
-  - title: 'Huiding Technology Scholarship'
-    date: '2022'
-    awarder: UESTC
-
-  - title: 'Academic Youth'
-    date: '2022'
-    awarder: UESTC
-
-  - title: 'First-class Scholarship'
-    date: '2022'
-    awarder: UESTC
-
-  - title: 'Outstanding Student Scholarship'
-    date: '2017 & 2018 & 2019'
-    awarder: UESTC
 ---
 
 ## About Me
