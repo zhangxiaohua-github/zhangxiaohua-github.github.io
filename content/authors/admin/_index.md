@@ -93,7 +93,6 @@ education:
       - Methods and Applications of Signal Processing
       - Surveying and Mapping
       - Microwave measurement
-
   - area: BSc Measurement and Control Technology and Instrumentation
     institution: University of Electronic Science and Technology of China
     date_start: 2016-09-01
