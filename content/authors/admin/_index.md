@@ -77,7 +77,7 @@ education:
     date_start: 2025-09-01
     date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
