@@ -25,10 +25,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Remote Sensing
+publication_short: RS
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Despite the profound roles of surface deformation monitoring techniques in observing permafrost surface stability, predetermining the approximate location and time of possibly occurring severe permafrost degradation before applying these techniques is extremely necessary, but has received little attention. Taking the oil tank collapse accident in the Norilsk region as a case, we explored this concern by analyzing the permafrost deformation mechanisms and determining early surface deformation signals. Regarding this case, we firstly applied the Small Baseline Subset Interferometric Synthetic Aperture Radar (SBAS-InSAR) technique to obtain its permafrost surface deformation rate, then utilized a sine model to decompose its interannual deformation and seasonal deformation, and finally compared the relationship between the topographic slope and deformation rate. Based on experimental results, we reveal that when the annual average temperature continuously increases at a rate of 2 °C/year for 2∼3 consecutive years, permafrost areas with relatively large topographic slopes (>15°) are more prone to severe surface deformation during the summer thaw period. Therefore, this paper suggests that permafrost areas with large topographic slopes (>15°) should be taken as the key surveillance areas, and that the appropriate monitoring time for employing surface deformation monitoring techniques should be the summer thawing period after a continuous increase in annual average temperature at a rate of 2 °C/year for 2∼3 years.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
