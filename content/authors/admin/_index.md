@@ -89,13 +89,9 @@ education:
       GPA: 3.67/4.00
 
       Courses included:
-      - Modern Testing Technology
-      - Methods and Applications of Signal Processing
-      - Surveying and Mapping
-      - Microwave measurement
-
-      My master thesis, titled 'A study on the mechanism of permafrost surface deformation based on multi-source remote sensing data', was authorized "Outstanding Master's Thesis".
-      
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
