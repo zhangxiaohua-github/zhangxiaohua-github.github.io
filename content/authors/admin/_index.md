@@ -165,6 +165,16 @@ skills:
         description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging.'  
         percent: 100
         icon: code-bracket
+  - name: Experimental Tools
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Google Earth Engine (GEE)
+        description: 'Familiar with GEE data processing process (proficient in employing GEE to process a variety of remote sensing data)'
+      - name: GNSS-IR
+        description: 'Familiar with GNSS-IR'
+      - name: ENVI, ArcGIS, QGIS, SARscape, Apache Doris, StamPS
+        description: 'Proficient in using these platforms to process optical or microwave remote sensing data.'  
 
 languages:
   - name: English
