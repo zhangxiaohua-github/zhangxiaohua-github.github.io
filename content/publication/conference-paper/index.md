@@ -16,8 +16,8 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-10-05T00:00:00Z'
+doi: '10.1109/IGARSS47720.2021.9553607'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-10-05T00:00:00Z'
@@ -34,10 +34,10 @@ publication_short: RS
 abstract: Despite the profound roles of surface deformation monitoring techniques in observing permafrost surface stability, predetermining the approximate location and time of possibly occurring severe permafrost degradation before applying these techniques is extremely necessary, but has received little attention. Taking the oil tank collapse accident in the Norilsk region as a case, we explored this concern by analyzing the permafrost deformation mechanisms and determining early surface deformation signals. Regarding this case, we firstly applied the Small Baseline Subset Interferometric Synthetic Aperture Radar (SBAS-InSAR) technique to obtain its permafrost surface deformation rate, then utilized a sine model to decompose its interannual deformation and seasonal deformation, and finally compared the relationship between the topographic slope and deformation rate. Based on experimental results, we reveal that when the annual average temperature continuously increases at a rate of 2 °C/year for 2∼3 consecutive years, permafrost areas with relatively large topographic slopes (>15°) are more prone to severe surface deformation during the summer thaw period. Therefore, this paper suggests that permafrost areas with large topographic slopes (>15°) should be taken as the key surveillance areas, and that the appropriate monitoring time for employing surface deformation monitoring techniques should be the summer thawing period after a continuous increase in annual average temperature at a rate of 2 °C/year for 2∼3 years.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Filtering;Scattering;Geoscience and remote sensing;Filtering algorithms;Speckle;Image filtering;Polarimetric synthetic aperture radar;polarimetric synthetic aperture radar (PolSAR);filter;non-local means (NLM);polarization decomposition
 
 # Display this page in the Featured widget?
 featured: false
@@ -47,14 +47,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://ieeexplore.ieee.org/document/9553607'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
