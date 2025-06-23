@@ -161,18 +161,18 @@ skills:
         description: 'Familiar with GNSS-IR'
         percent: 80
         icon: code-bracket
-  # - name: Models/Methods/Professional Skills:
-  #   # color: '#eeac02'
-  #   # color_border: '#f0bf23'
-  #   items:
-  #     - name: RS image processing
-  #       description: 'Multi-source and remote sensing image processing: proficient in processing optical remote sensing images and SAR images.)'
-  #     - name: InSAR technique
-  #       description: 'PS-InSAR, SBAS-InSAR'
-  #     - name: Permafrost models
-  #       description: ' TTOP model, Stefan model, seasonal and interannual deformation decomposition model, late season settlement model, ALT estimation through InSAR.'
-  #     - name: SAR Echo Signal Simulation and Imaging
-  #       description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging.'  
+  - name: Models/Methods/Professional Skills:
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: RS image processing
+        description: 'Multi-source and remote sensing image processing: proficient in processing optical remote sensing images and SAR images.)'
+      - name: InSAR technique
+        description: 'PS-InSAR, SBAS-InSAR'
+      - name: Permafrost models
+        description: ' TTOP model, Stefan model, seasonal and interannual deformation decomposition model, late season settlement model, ALT estimation through InSAR.'
+      - name: SAR Echo Signal Simulation and Imaging
+        description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging.'  
 
 languages:
   - name: English
