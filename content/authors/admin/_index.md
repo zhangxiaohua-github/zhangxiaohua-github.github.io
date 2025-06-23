@@ -77,21 +77,25 @@ education:
     date_start: 2025-09-01
     date_end: ''
     summary: |
-      Supervised by Prof Surui Xie (https://www.cive.uh.edu/faculty/xie-surui).
+      Supervised by Prof Surui Xie.
     button:
       text: 'Prof Surui Xie'
       url: 'https://www.cive.uh.edu/faculty/xie-surui'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Radar Sensing
+    institution: University of Electronic Science and Technology of China
+    date_start: 2020-09-01
+    date_end: 2023-06-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.67/4.00
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Modern Testing Technology
+      - Methods and Applications of Signal Processing
+      - Surveying and Mapping
+      - Microwave measurement
+
+      My master thesis, titled 'A study on the mechanism of permafrost surface deformation based on multi-source remote sensing data', was authorized "Outstanding Master's Thesis".
+      
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
