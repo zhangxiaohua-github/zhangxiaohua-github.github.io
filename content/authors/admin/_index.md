@@ -87,17 +87,20 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.67/4.00
+
       Courses included:
       - Modern Testing Technology
       - Methods and Applications of Signal Processing
       - Surveying and Mapping
       - Microwave measurement
+
   - area: BSc Measurement and Control Technology and Instrumentation
     institution: University of Electronic Science and Technology of China
     date_start: 2016-09-01
     date_end: 2020-06-31
     summary: |
-      GPA: 3.80/4.00  
+      GPA: 3.80/4.00
+      
       Courses included:
       - Signals and Systems
       - Microcomputer System Thoery and Embedded System Design
