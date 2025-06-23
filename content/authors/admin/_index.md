@@ -83,10 +83,10 @@ education:
       url: 'https://www.cive.uh.edu/faculty/xie-surui'
   - area: MSc Radar Sensing
     institution: University of Electronic Science and Technology of China
-    date_start: 2020-09-01
-    date_end: 2023-06-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.67/4.00
+      GPA: 3.8/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
