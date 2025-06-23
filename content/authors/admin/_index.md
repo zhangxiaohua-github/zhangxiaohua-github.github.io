@@ -93,20 +93,17 @@ education:
       - Methods and Applications of Signal Processing
       - Surveying and Mapping
       - Microwave measurement
-
-      My master thesis, titled 'A study on the mechanism of permafrost surface deformation based on multi-source remote sensing data', was authorized "Outstanding Master's Thesis".
-  - area: BSc Measurement and Control Technology and Instrumentation
-    institution: University of Electronic Science and Technology of China
-    date_start: 2016-09-01
-    date_end: 2020-06-31
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      GPA: 3.80/4.00
+      GPA: 3.4/4.0
       
       Courses included:
-      - Signals and Systems
-      - Microcomputer System Thoery and Embedded System Design
-      - Electronic Measurement Theory and Test Systems
-      - Microwave Technology and Radio-Frequency Circuit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
