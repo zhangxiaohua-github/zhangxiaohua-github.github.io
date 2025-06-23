@@ -104,9 +104,9 @@ education:
       - Electronic Measurement Theory and Test Systems
       - Microwave Technology and Radio-Frequency Circuit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: SAR Signals and InSAR Analysist
+    company_name: Tianjin Yunyao Yuhang Technology Co., Ltd.
+    company_url: http://tjyyspace.com/
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
