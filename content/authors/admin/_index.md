@@ -145,22 +145,23 @@ skills:
         description: ''
         percent: 40
         icon: code-bracket
-  - name: Hobbies
+  - name: Experimental Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Google Earth Engine (GEE)
+        description: 'Familiar with GEE data processing process, proficient in employing GEE to process a variety of remote sensing data'
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+        icon: code-bracket
+      - name: ENVI, ArcGIS, QGIS, SARscape, Apache Doris, StamPS
+        description: 'Proficient in using these platforms to process optical or microwave remote sensing data.'
+        percent: 100
+        icon: code-bracket
+      - name: GNSS-IR
+        description: 'Familiar with GNSS-IR'
         percent: 80
-        icon: camera
+        icon: code-bracket
+
 
 languages:
   - name: English
