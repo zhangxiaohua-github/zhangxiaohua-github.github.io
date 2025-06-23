@@ -137,14 +137,14 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 60
+        icon: code-bracket
+      - name: C/C++
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
