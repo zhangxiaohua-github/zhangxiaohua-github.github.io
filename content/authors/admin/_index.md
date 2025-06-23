@@ -145,7 +145,7 @@ skills:
         description: ''
         percent: 40
         icon: code-bracket
-  - name: Models/Methods/Professional Skills:
+  - name: Models/Methods/Professional Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
