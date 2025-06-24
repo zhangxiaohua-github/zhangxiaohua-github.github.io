@@ -131,7 +131,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - columns: 10
   - name: Programming Languages
     items:
       - name: Python
