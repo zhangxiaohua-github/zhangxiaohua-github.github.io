@@ -50,7 +50,7 @@ sections:
         
         I welcome scholarly discussions and potential collaborations.
     design:
-      columns: '1'
+      columns: '2'
   # - block: collection
   #   id: papers
   #   content:
