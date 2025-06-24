@@ -8,13 +8,16 @@ authors:
 #   - Hugo Blox
 #   - Markdown
 image:
+  path: 'featured.jpg'
   caption: ''
 ---
 
 In June when pomegranate flowers shine bright, I traveled north then south following early summer's song. The smell of locust trees still clung to my clothes in old Baoding, while Zhengzhou's spicy soup warmed my stomach. As evening winds from the Huangpu River played with my hair, tiny green lotus leaves were quietly growing on West Lake. Under Canton's covered streets, I listened to the soft sounds of Cantonese; in Shenzhen's bright lights, I watched the changes of the bay area. Each trip was like opening a gift from time—old friends' chats over drinks, waves from train platform goodbyes, and each city's special life smells all mixed together between spring's last days and summer's start, becoming springs of water that never dry up in my heart.
 
 ## Shanghai
-
+image:
+  path: 
+  caption: ''
 
 ## Hangzhou
 
