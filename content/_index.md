@@ -52,9 +52,9 @@ sections:
     design:
       columns: '1'
   # - block: collection
-  #   id: papers
+  #   id: publications
   #   content:
-  #     title: Featured Papers
+  #     title: Featured Publications
   #     filters:
   #       folders:
   #         - publication
@@ -63,7 +63,7 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Publications
       text: ""
