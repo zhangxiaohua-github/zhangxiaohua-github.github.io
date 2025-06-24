@@ -11,84 +11,13 @@ image:
   caption: ''
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+In June when pomegranate flowers shine bright, I traveled north then south following early summer's song. The smell of locust trees still clung to my clothes in old Baoding, while Zhengzhou's spicy soup warmed my stomach. As evening winds from the Huangpu River played with my hair, tiny green lotus leaves were quietly growing on West Lake. Under Canton's covered streets, I listened to the soft sounds of Cantonese; in Shenzhen's bright lights, I watched the changes of the bay area. Each trip was like opening a gift from time—old friends' chats over drinks, waves from train platform goodbyes, and each city's special life smells all mixed together between spring's last days and summer's start, becoming springs of water that never dry up in my heart.
 
-## Ideation
+## Shanghai
 
-Hugo Blox supports a Markdown extension for mindmaps.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+## Hangzhou
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+## Guangzhou
 
-renders as
-
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-
-## Diagrams
-
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
-
-An example **Gantt diagram**:
-
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
-
-renders as
-
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
