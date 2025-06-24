@@ -19,7 +19,7 @@ main:
   - name: News
     url: /#news
     weight: 13
-  - name: Jobs & Education
+  - name: Education & Profession
     url: experience/
     weight: 20
   - name: Projects
