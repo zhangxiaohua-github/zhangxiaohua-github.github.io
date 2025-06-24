@@ -146,8 +146,8 @@ skills:
         percent: 40
         icon: code-bracket
   - name: Professional Methods
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    # color: '#eeac02'
+    # color_border: '#f0bf23'
     items:
       - name: RS image processing
         description: 'Multi-source and remote sensing image processing: proficient in processing optical remote sensing images and SAR images.)'
@@ -158,8 +158,8 @@ skills:
       - name: SAR Echo Signal Simulation and Imaging
         description: 'Proficiently simulate the echo signals of both airborne and satellite-borne SAR, and utilize RD/CS/BP algorithms for focusing the echo data and imaging.'  
   - name: Experimental Tools
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    # color: '#eeac02'
+    # color_border: '#f0bf23'
     items:
       - name: Google Earth Engine (GEE)
         description: 'Familiar with GEE data processing process (proficient in employing GEE to process a variety of remote sensing data)'
