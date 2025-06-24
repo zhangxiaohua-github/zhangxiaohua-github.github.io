@@ -54,7 +54,7 @@ sections:
   # - block: collection
   #   id: papers
   #   content:
-  #     title: Publications
+  #     title: Featured Papers
   #     filters:
   #       folders:
   #         - publication
