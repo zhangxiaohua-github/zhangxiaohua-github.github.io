@@ -1,14 +1,14 @@
-<!-- ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+---
+title: ✅ Travel To Shanghai & Hangzhou & Guangzhou
+summary: I traveled to Shanghai & Hangzhou & Guangzhou with my friends.
+date: 2025-06-10
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
+# tags:
+#   - Hugo Blox
+#   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
@@ -91,4 +91,4 @@ renders as
   - [x] Write diagram example
 - [ ] Do something else
 
-## Did you find this page helpful? Consider sharing it 🙌 -->
+## Did you find this page helpful? Consider sharing it 🙌
