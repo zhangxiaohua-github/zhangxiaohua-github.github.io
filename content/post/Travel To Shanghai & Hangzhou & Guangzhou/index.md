@@ -1,6 +1,6 @@
 ---
 title: ✅ Travel To Shanghai & Hangzhou & Guangzhou
-summary: I traveled to Shanghai & Hangzhou & Guangzhou with my friends.
+summary: Late spring found me wandering with friends from Shanghai's neon-lit streets to Hangzhou's willow-fringed lakes, Guangzhou's flaming kapok blooming in between—all tucked into my satchel as tender shards of time.
 date: 2025-06-10
 authors:
   - admin
