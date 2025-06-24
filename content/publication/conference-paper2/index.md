@@ -1,5 +1,5 @@
 ---
-title: 'A Filtering Algorithm Based on Polarization Decomposition for Better Preserving Polsar Image Scattering Features'
+title: 'A Non-Local Fuzzy C-Means Clustering Segmentation Algorithm Based on Comentropy and Between-Cluster Scatter Matrix to Overcome the Inherent Coherence Speckles of SAR Images'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,19 +8,17 @@ authors:
   - Zhang Peng
   - Chen Yan
   - Chen Yunping
-  - Lu Youchun
-  - Xu Chunliang
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-10-12T00:00:00Z'
-doi: '10.1109/IGARSS47720.2021.9553607'
+date: '2022-09-28T00:00:00Z'
+doi: '10.1109/IGARSS46834.2022.9884294'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-10-12T00:00:00Z'
+publishDate: '2022-09-28T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,10 +26,10 @@ publishDate: '2021-10-12T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS
-publication_short: 2021 IGARSS
+publication: 2022 IEEE International Geoscience and Remote Sensing Symposium IGARSS
+publication_short: 2022 IGARSS
 
-abstract: The polarimetric synthetic aperture radar (PolSAR) image filtering is an essential step before the quantitative inversion. However, the existing filtering algorithms often change the scattering features of the original PolSAR images. This leads to a performance decrease for the subsequent quantitative inversion. In order to combat such drawback, we adopted a novel filtering algorithm preceding the quantitative inversion. This algorithm adopted the idea of “classify first, filter later”. By utilizing the hybrid four-component polarization decomposition (HPD) method to pre-classify the pixels, and implementing non-local means lee (NLM-Lee) filtering only between the same ground object points, the scattering features are well-protected. The experiment results show that the proposed algorithm can not only effectively reduce the speckle and preserve the structural features of the image, but is far superior in preserving the scattering features of the images. Hence, when the PolSAR image filtering is carried out by the proposed algorithm, the performance of the quantitative inversion will be improved.
+abstract: The fuzzy c-means (FCM) algorithm and many of its variations have been widely adopted for image segmentation tasks. However, these methods are unable to present satisfactory segmentation results when dealing with synthetic aperture radar (SAR) images owing to the intrinsic speckle noise. In order to achieve the effective segmentation of SAR images, a robust FCM algorithm, namely NCBS_FCM, is proposed. The nonlocal spatial information is utilized to reduce the effect of speckle noise. Furthermore, NCBS_FCM takes advantage of the comentropy based on local gray histogram to acquire the adaptive weighting parameter for nonlocal spatial information term, which can achieve a better balance between speckle suppression and edge detail preservation. In addition, this paper incorporates the between-cluster scatter term into the objective function to adjust the distance between the cluster centers accordingly. Therefore, NCBS_FCM is more robust to various images and achieves satisfactory segmentation accuracy. Experiments on simulated and real SAR images show that NCBS_FCM outperforms other proposed variations of FCM by a significant margin.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -47,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9553607'
+url_pdf: 'https://ieeexplore.ieee.org/document/9884294'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
