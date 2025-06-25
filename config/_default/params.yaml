@@ -32,15 +32,15 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Zhang Peng"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: "This is Zhang Peng's Personal website"
     license:
       enable: true
       allow_derivatives: false
