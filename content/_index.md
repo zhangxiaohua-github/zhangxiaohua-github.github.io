@@ -36,7 +36,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interests span a broad spectrum, primarily concerning the integration of 3S technologies (GNSS, RS, GIS) with multidisciplinary domains.
+        My research interests span a broad spectrum, primarily concerning the algorithm improvement for 3S technologies (GNSS, RS, GIS) and their integration with multidisciplinary fields..
 
         My previous research encompasses the following areas:
         - Optical Remote Sensing Image Processing: Retrieval of water chlorophyll-a concentration;
