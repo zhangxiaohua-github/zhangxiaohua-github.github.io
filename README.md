@@ -1,51 +1,62 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# Zhang Peng — Academic Homepage
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+Personal academic website for **Zhang Peng (张鹏)**, Ph.D student at the Marine and Coastal Geodesy Group, University of Houston.
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+Pure static site (HTML / CSS / vanilla JS) — **no build step, no Ruby/Jekyll/Node required**. What you see in `index.html` is exactly what GitHub Pages serves.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+## Local preview
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+Any static server works. Easiest with Python:
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+```bash
+cd site        # this folder
+python -m http.server 8000
+# open http://localhost:8000
+```
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+Or just double-click `index.html` (fonts need internet; everything else works offline).
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## ✅ Already filled in
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- CV: `assets/pdf/Resume_Peng_Zhang.pdf` (Download CV button links here)
+- Photo: `assets/img/Myphoto/MyPhoto.jpeg`
+- Email, X, GitHub, LinkedIn, Google Scholar, ORCID — all linked
+- Supervisor (Dr. Surui Xie) link
 
-## We ask you, humbly, to support this open source movement
+## ⚠️ Placeholders still pending
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+| Item | Where | What to do |
+|---|---|---|
+| Publication PDF / DOI | `#publications` section | Each paper has disabled `PDF` / `DOI` buttons — turn them into links: `<a class="pub-btn" href="https://doi.org/...">DOI</a>` |
+| Project figures | `assets/img/project-permafrost.svg`, `assets/img/project-soilmoisture.svg` | Replace with your original high-resolution figures and update the two `<img src>` in the Projects section |
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## How to add a new publication
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+In `index.html`, inside `<section id="publications">`, copy an existing `<article class="pub-card">` block and edit:
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+1. Year in `<div class="pub-year">`
+2. Title in `<h3>`, authors, venue
+3. Give the hidden `<pre class="bibtex" id="pubN">` a **new unique id** and matching `data-cite="pubN"` on the CITE button
+4. Paste the paper's BibTeX inside the `<pre>`
 
-## Demo image credits
+Newest papers go on top (reverse chronological order).
 
-- [Unsplash](https://unsplash.com)
+## How to add a new project
 
-## Latest news
+Inside `<section id="projects">`, copy an existing `<article class="project-card">` block, then edit the image, date, title, caption and tag pills. Put the figure in `assets/img/`.
 
-<!--START_SECTION:news-->
-* [6 Compelling Reasons I Switched from WordPress to Hugo](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;wordpress&#x2F;)
-* [The 7 best landing page builders in 2024](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;7-best-landing-page-builders&#x2F;)
-* [Start a Blog and Make Money in 2024: Here&#39;s What You Need to Know](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;start-a-blog-and-make-money&#x2F;)
-* [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+## How to change colors / dark mode
+
+All colors are CSS variables at the top of `assets/css/style.css` (`:root` for light, `:root[data-theme="dark"]` for dark). Primary blue: `--primary`, coral accent: `--accent`.
+
+## Deploy to GitHub Pages
+
+This repo is the **user homepage** repo (`zhangxiaohua-github.github.io`), so the `main` branch root is served directly:
+
+```bash
+git add .
+git commit -m "Update site"
+git push origin main
+```
+
+In repo **Settings → Pages**, Source should be **Deploy from a branch → main / (root)**. The `.nojekyll` file tells GitHub to serve files as-is (no Jekyll build). Changes appear at <https://zhangxiaohua-github.github.io> within a minute or two.

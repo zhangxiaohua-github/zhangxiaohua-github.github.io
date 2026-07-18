@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#f2f4f8"/>
+  <text x="320" y="34" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" fill="#5b6572">Deformation time series (placeholder)</text>
+
+  <!-- (a) total deformation -->
+  <g transform="translate(50, 55)">
+    <rect width="540" height="80" fill="#ffffff" stroke="#e6e4de"/>
+    <text x="8" y="18" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#1d4ed8">(a) Total deformation</text>
+    <polyline points="10,55 60,50 110,58 160,45 210,52 260,38 310,46 360,32 410,40 460,26 510,34 530,24" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+  </g>
+
+  <!-- (b) inter-annual -->
+  <g transform="translate(50, 145)">
+    <rect width="540" height="80" fill="#ffffff" stroke="#e6e4de"/>
+    <text x="8" y="18" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#d43d1c">(b) Inter-annual deformation</text>
+    <polyline points="10,60 100,55 190,50 280,44 370,39 460,33 530,29" fill="none" stroke="#ff6b4a" stroke-width="2" stroke-dasharray="6 4"/>
+  </g>
+
+  <!-- (c) seasonal -->
+  <g transform="translate(50, 235)">
+    <rect width="540" height="80" fill="#ffffff" stroke="#e6e4de"/>
+    <text x="8" y="18" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700" fill="#147a4d">(c) Seasonal deformation</text>
+    <path d="M10 50 q 30 -25 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0 t 60 0" fill="none" stroke="#2fbf71" stroke-width="2"/>
+  </g>
+
+  <text x="320" y="348" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#8b94a1">Replace with original high-resolution figure</text>
+</svg>
